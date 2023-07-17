@@ -77,6 +77,10 @@ p, a{
   font-size: 15px;
 }
 
+a{
+ cursor: pointer;
+}
+
 .red{
   color: rgb(210, 32, 32);
   font-weight: bold;
